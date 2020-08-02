@@ -93,6 +93,7 @@ Supported by / 支持者:
 * Binary Wang (wangbin), Software Engineer
 * Bingyao Ma (马秉尧), Software Engineer, Adtalos
 * Bo Feng, Student, Southwest University of Science and Technology
+* Bozhao Feng, Student
 * Bofei Wang (王博飞), University of New South Wales, Sydney
 * Borja Canseco, Software Engineer, IBM
 * Boy Liu, Software Engineer, JiNan
